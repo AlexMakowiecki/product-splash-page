@@ -5,7 +5,7 @@ The concepts learned in this project were:
   - **viewport units** (vh/vw), to use a value that changes based on the window (website visible area) height or width.
   - **text-transform** to transform text, in this case, to make uppercase phrases. 
   - **box-sizing** to stop the padding and border from changing element size
-  - use **background** property for background images, so you can also create a background-color, in case the image doesn't load
+  - use of **background** property for background images, so you can also create a background-color, in case the image doesn't load
   - default classes for buttons, to make a more DRYer CSS.
   - use of **margin:auto** to make the width of the border of the paragraph the same as the paragraph text.
 ## Preview
