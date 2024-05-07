@@ -1,6 +1,6 @@
 # Product splash page
 ## Details
-A website with a form, only made to practice responsive techniques.
+A website with a form, only made to practice techniques for responsive layouts.
 The concepts learned in this project were:
   - **viewport units** (vh/vw), to use a value that changes based on the window (website visible area) height or width.
   - **text-transform** to transform text, in this case, to make uppercase phrases. 
